@@ -1,2 +1,2 @@
 # Python-Advance-Assignments
-theoretical Q/A ineuron
+theoretical Q/As ineuron
